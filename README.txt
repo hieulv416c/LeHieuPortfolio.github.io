@@ -1,7 +1,6 @@
 # Hi, I'm Lê Văn Hiếu 👋
 ### Data Analyst Intern | Business Intelligence Enthusiast
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levanhieu22416/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hieulv416c)
+
 
 Senior student at **University of Economics and Law (UEL)**. I am a data enthusiast who loves transforming raw, complex data into meaningful and actionable insights. My focus is on building robust data pipelines and interactive BI solutions.
 
